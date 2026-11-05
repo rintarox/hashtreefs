@@ -1,4 +1,4 @@
-# hashtreefs
+# htfs - HashTreeFileSystem
 Fuse filesystem based on UT_hash
 
 UT_hash repo : https://github.com/troydhanson/uthash/tree/master
